@@ -1,0 +1,29 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-community
+langchain-core
+
+
+#vectorstore
+chromadb
+
+#Embeddings
+sentenceTransformers
+
+#pdf parsing
+PyPDF #backend for PyPDFLoader via Langchain_community
+
+#Environment variables
+python-dotenv
+
+#Typing and utilities
+pydantic
+requests
+
+#logging
+loguru
+
+#fileuploads
+aiofiles
