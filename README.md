@@ -62,7 +62,7 @@ Fork → branch → PR.
 Keep code typed & formatted. Ideas welcome!
 
 ## 📜 License
-Choose one (MIT / Apache-2.0) — add it before release.
+MIT
 
 ---
 
